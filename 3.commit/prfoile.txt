@@ -1,2 +1,2 @@
-email : devel_jael@naver.com
+email : devel_jael@naver.com 22
 gitID : babycoding2
